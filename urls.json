@@ -1,0 +1,8 @@
+{
+  "domains": [
+    {"name": "官方通道 A", "url": "https://www.google.com"},
+    {"name": "备用通道 B", "url": "https://www.github.com"},
+    {"name": "防污染通道 C", "url": "https://www.cloudflare.com"}
+  ],
+  "notice": "请收藏本页（Ctrl+D），若域名失效，我们将在此发布最新回家地址。"
+}
